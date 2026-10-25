@@ -1,0 +1,5 @@
+target/
+proxmox/config.env
+.idea/
+.vscode/
+*.iml
